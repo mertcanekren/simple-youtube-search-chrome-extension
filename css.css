@@ -1,0 +1,14 @@
+input[type=text]{
+	outline: none;
+	border:1px solid #cacaca;
+	color:#666;display:inline-block;
+	line-height:normal;
+	width:350px;
+	margin:0 10px 0 0;
+	padding:6px 10px
+}
+
+.buton{
+	cursor:pointer;font-family:Helvetica, sans-serif;font-size:12px;font-weight:700;text-decoration:none;border:1px solid #cacaca;background:#f6f6f6;color:#717171;margin:5px;padding:5px 10px}
+
+}
